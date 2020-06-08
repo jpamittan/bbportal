@@ -67,7 +67,7 @@ cd /path/to/your/target/folder
 
 4. Run the GIT command below to clone the code base from Github. Input your username and password for first time cloning the project after running the command. Then branch out to the dev branch. As of now, the dev branch is the latest code base.
 ```
-git clone https://github.com/kblasK8/k8PortalAPI.git
+git clone https://github.com/jpamittan/bbportal.git
 git branch dev origin/dev
 git checkout dev
 ```
